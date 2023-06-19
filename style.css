@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+}
+#container, form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button {
+    margin-bottom: 1rem;
+    width: 10rem;
+    border: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
+.imgContainer {
+    min-width: 25rem;
+    min-height: 30rem;
+}
+img {
+    height: auto;
+    width: 30rem;
+    border-radius: 0.5rem;
+}
+@media screen and (max-width: 700px) {
+    img {
+        max-width: 80%;
+        display: flex;
+    }
+    .imgContainer {
+        display: flex;
+        justify-content: center;
+    }
+}
