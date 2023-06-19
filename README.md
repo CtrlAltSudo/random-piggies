@@ -2,8 +2,7 @@
 <p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/random-piggies/">Live Demo</a><p>
 <h2 align="center">Project Screenshot<h2>
 <p align="center">
-  <img src="./images/screenshot.png
-  "></img>
+  <img src="./images/screenshot.png"></img>
 </p>
 
 ## Description
